@@ -29,9 +29,9 @@ So, for soft suspension you would want low spring and relatively low damp, and t
 ## Leaf springs
 
 [<img 
-    src="/images/softbody-suspension-leafspring-ingame-tn.jpg" 
+    src="https://archives.rigsofrods.org/wiki/images/a/ad/Leafspring_ingame.jpg" 
     style="float: left; margin-right: 10px; width: 20%;"
->](/images/softbody-suspension-leafspring-ingame.jpg)
+>](https://archives.rigsofrods.org/wiki/images/a/ad/Leafspring_ingame.jpg)
 
 Leaf spring suspension is a very simple (in real life; it is much harder to model in RoR) and efficient design found on almost all trucks using beam axles. The design consists of a spring and a shackle, the spring is a long metal arc that bend when a force is exerted on the spring. One end of the spring is securely mounted to the frame and the other to a shackle. The shackle allows for one end of the spring to move back and forth as the spring straightens out under force.
 
